@@ -1,14 +1,13 @@
-pagetitle: Show the content ecosystem
+pagetitle: Removing content
 weight: 10
-description:
-layout: layout/topic
 theme: blue
+description: Remove unwanted, redundant and out-of-date content to help users find what they need.
 header:
   - /_shared/globalheader.md
   - /_shared/header.md
 main:
   - intro.md
-  - sections.md
+  - removing-content-topics.md
   - /_shared/feedback.md
 footer:
   - /_shared/footer.md
